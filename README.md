@@ -1,5 +1,4 @@
-# Exp-1:Mean and variance of a discrete  distribution
-
+# Ex-01 Mean and variance of a discrete distribution
 ## Aim : 
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
@@ -72,9 +71,12 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
 # Output : 
-![image](https://github.com/poojaanbu0/Mean-and-Variance/assets/119390329/5e60cb95-8b82-4f31-9ff4-ea408d9222b2)
-
+```
+5 0 1 4 2 3 7 5 3 5 5 7 7 2 3 3 5 3 6 1
+The Mean arrival rate is 3.850 
+The Variance of arrival from feeder is 4.128 
+The Standard deviation of arrival from feeder is 2.032 
+```
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
